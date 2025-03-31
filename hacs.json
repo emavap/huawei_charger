@@ -1,0 +1,9 @@
+{
+  "name": "Huawei Charger",
+  "domain": "huawei_charger",
+  "documentation": "https://github.com/emavap/huawei_charger",
+  "codeowners": ["@emavap"],
+  "requirements": [],
+  "version": "1.0.0",
+  "type": "integration"
+}

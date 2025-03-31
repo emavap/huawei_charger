@@ -1,0 +1,12 @@
+{
+  "domain": "huawei_charger",
+  "name": "Huawei Charger",
+  "version": "1.0.0",
+  "documentation": "https://github.com/emavap/huawei_charger",
+  "requirements": [],
+  "codeowners": ["@emavap"],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "integration_type": "device"
+}
